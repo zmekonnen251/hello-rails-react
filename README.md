@@ -1,27 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Ruby on Rails - Budget app
+# Set up a "Hello world" project as one app with Webpack
 
-> This project is Ruby on Rails capstone project. is a mobile web application where you can manage your budget: you can create a list of transactions associated with a category, so that you can see how much money you spent and on what.
-
-## Live demo
-
-[Live demo](https://zmekonnen-my-rails-budget-app.herokuapp.com/)
-
-## Video Explanation
-
-[Loom video](https://www.loom.com/share/c6c365e8e18442f2b78a5dd890ecfdf0)
+> Implement a connection between a Ruby on Rails back-end and React front-end.
 
 ## Built With
 
 - **Ruby**
 - **Rails**
 - **Postgresql**
-- **Tailwind css**
-
-## Methodology used
-
-- TDD via RSPEC
+- **React**
+- **Redux**
 
 ## Getting Started
 
@@ -33,8 +22,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## Setup
 
-- Clone the project `https://github.com/zmekonnen251/Budget-App.git`
-- navigate to the folder `cd Budget-App`
+- Clone the project `https://github.com/zmekonnen251/hello-rails-react.git`
+- navigate to the folder `cd hello-rails-react`
 - Install required gems `bundle i`
 
 ## Usage
@@ -50,10 +39,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@zelalem251](https://github.com/zmekonnen251)
 - Twitter: [@mek_zela](https://twitter.com/mek_zela)
 - LinkedIn: [Zelalem G. Mekonnen](https://www.linkedin.com/in/zelalem-getachew/)
-
-## Acknowledgement
-
-> I would like to give my heartfelt gratitude to [Gregoire Vella on Behance](https://www.behance.net/gregoirevella) for this amazing Design.
 
 ## 🤝 Contributing
 
